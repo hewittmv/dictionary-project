@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>
         Dictionary App
-        <img src={logo} width="50px" />
+        <img src={logo} width="50px" alt="React logo" />
       </h1>
       <footer>
         <a
