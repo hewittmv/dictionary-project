@@ -4,6 +4,10 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+      <h1>
+        Dictionary App
+        <img src={logo} width="50px" />
+      </h1>
       <footer>
         <a
           className="github-link"
